@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+models/
+.env
+*.sqlite*
+reports/
+.env.*
+!.env.example
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.onnx
